@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Mascota Avanzado</string>
+    <string name="nombre">Nombre: Romeo</string>
+    <string name="id">Id: Pasivo</string>
+    <string name="raza">Raza: Golden</string>
+    <string name="pnombre">nombre</string>
+    <string name="pidentificacion">identificacion</string>
+    <string name="praza">raza</string>
+    <string name="menu_recycle">Mascotas favoritas seleccionadas</string>
+    <string name="menu_perfil">Perfil</string>
+    <string name="todo">TODO</string>
+
+    //Menu opciones
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_acerca">Acerca de</string>
+    <string name="txt_initial">Contáctanos</string>
+    <string name="txt_campo1">Nombre</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_mensaje">Comenta tu solicitud</string>
+    <string name="btnEnviar">Enviar información</string>
+    <string name="user_name">Greece Smith</string>
+    <string name="txt_secondary">Desarrollador</string>
+    <string name="plike">4</string>
+    <string name="menu_cuenta">Configurar Cuenta</string>
+</resources>
